@@ -1,3 +1,3 @@
 # Timeless way of living
 
-* [Concepts](conepts.md)
+* [Concepts](concepts.md)
