@@ -1,4 +1,4 @@
-#Concepts
+# Concepts
 
 What is a concept? Abstract ideas like love, relationship and respect. In a broader sense, everything is a concept. 
 We share these concepts at varying levels of abstraction to communicate effectively amongst ourselves. 
