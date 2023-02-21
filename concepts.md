@@ -1,4 +1,4 @@
-[⏮Timeless Way ..](Readme.md)
+[⏮Timeless Way ..](README.md)
 # Concepts
 
 What is a concept? Abstract ideas like love, relationship and respect. In a broader sense, everything is a concept. 
@@ -32,4 +32,4 @@ Know that these concepts are important but don't be a prisoner to them.
 Be mindful of abstractions in life and their imperfections. 
 Thus you will be able see the cause of conflict and be at peace.
 
-[⏮Timeless Way ..](Readme.md)
+[⏮Timeless Way ..](README.md)
