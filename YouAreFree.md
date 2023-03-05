@@ -1,4 +1,6 @@
 
+[⏮Timeless Way ..](README.md)
+
 ## Retire Your Self
 ***Is the seer the mind?***
 ***Who experiences being?***
@@ -69,3 +71,5 @@ thoughts. Furthermore, being centered on your favorite
 fiction called personality eventually leads to conflict. To
 have a colorless mind that remains, not chasing memories
 and day-dreams, is the best retirement you will have. ***
+
+[⏮Timeless Way ..](README.md)
