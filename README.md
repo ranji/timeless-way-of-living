@@ -5,4 +5,4 @@
 * [A Jar Of Water](emptyYourSelf.md)
 * [Divisive Nature of Mind](dividedWeLive.md)
 * [Thought Is Time](time.md)
-* [Retire Your Self](liberateYourSelf.md)
+* [Retire Your Self](youAreFree.md)
