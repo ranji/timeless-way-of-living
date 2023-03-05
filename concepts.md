@@ -1,5 +1,5 @@
 [⏮Timeless Way ..](README.md)
-# The Concept of Personality
+# The Concept called Personality
 
 What is a concept? we presumably understand abstract ideas like love, relationship and respect. 
 We share these concepts at varying levels of abstraction to communicate effectively amongst ourselves. In a broader sense, abstract ideas and sold phyical objects are also a concept.  
