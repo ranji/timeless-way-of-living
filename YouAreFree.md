@@ -39,7 +39,7 @@ journey, your day-to-day life, you will never reach your
 destination. In fact, you may not even realize that you've
 reached your destination. 
 
-A teachers of mine would oft repeat: 
+A teacher of mine would oft repeat: 
 >"Imagine that somebody picked you up and dropped you in your favorite vacation destination.
 You have no memory of how you ended up there, 
 you have no idea how you long you remain there before you are picked up again.
