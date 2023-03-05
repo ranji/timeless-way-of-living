@@ -1,3 +1,3 @@
 # Timeless way of living
 
-* [Concepts](concepts.md)
+* [The Concept called Personality](concepts.md)
