@@ -12,6 +12,9 @@ colors as they change, never forgetting that your
 original nature is colorless and that clinging to a color is
 futile and unnatural.
 
+![A Jar of Water](Jar_of_mind__.jpg)
+
+
 The idea of personality is based on two things. The first
 is experience. You touch boiling water, you know it is hot.
 Now you know that touching boiling water hurts, so you
