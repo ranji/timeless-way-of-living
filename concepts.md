@@ -1,6 +1,13 @@
 [⏮Timeless Way ..](README.md)
 # The Concept called Personality
 
+
+***Who do you see when you look into a mirror?***
+
+***Who is seeing when you say I see myself?***
+
+***We all need fresh eyes every day.***
+
 What is a concept? we presumably understand abstract ideas like love, relationship and respect. 
 We share these concepts at varying levels of abstraction to communicate effectively amongst ourselves. In a broader sense, abstract ideas and sold phyical objects are also a concept.  
 To understand how our minds work with ideas and conceptualizes,  we should go from concrete to the abstract. For example, a bicylce I own is real 
