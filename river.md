@@ -1,4 +1,6 @@
-STEP IN STEP OUT
+[⏮Timeless Way ..](README.md)
+
+## STEP IN STEP OUT
 
 ***A fisherman does not get his feet wet while fishing.***
 
@@ -61,3 +63,5 @@ living contently. This so called ambition to make money or
 getahead of others is no ambition at all - it is petty competition. True ambition is to find out what you
 love,
 do it and get better at it because you want to.
+
+[⏮Timeless Way ..](README.md)
