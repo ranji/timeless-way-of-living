@@ -1,3 +1,5 @@
+[⏮Timeless Way ..](README.md)
+
 ## Empty Your Self
 
 Imagine a glass jar filled with water. Now add a drop of
@@ -39,3 +41,5 @@ by your personality. ***Realize this and you won’t be attached to this
 thing you call your personality or see a reason to defend or conform to
 what you yourself have created over the years. Conflicts in life will
 disappear as a result.***
+
+[⏮Timeless Way ..](README.md)
